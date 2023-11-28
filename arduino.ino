@@ -1,7 +1,7 @@
 //variaveis
-int led1 = 13;
-int led2 = 10;
-int led3 = 9;
+int led1 = 4;
+int led2 = 2;
+int led3 = 3;
 
 
 //ligando variaveis e porta serial
